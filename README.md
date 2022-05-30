@@ -1,4 +1,4 @@
-# Hướng dẫn cài đặt
+# Hướng dẫn cài đặt 
 1. Mở Command Prompt bằng cách ấn tổ hợp phím Windows+R và gõ
 ```
 cmd
@@ -64,13 +64,15 @@ https://youtu.be/vVpKPWSLRF8
 
 - Vector: Dùng để tạo danh sách lưu trữ quái vật và đạn bắn
 
-- Con trỏ: Giúp tối ưu bộ nhớ
-
-- Xâu
+- Con trỏ: Quản lí object game, giảm gánh nặng xử lý memory
 
 - Lập trình hướng đối tượng, vận dụng tính đóng gói, kế thừa, có thể dùng lại thuộc tính của một class cho các class con khác
 
-- Sử dụng thư viện đồ họa SDL2, SDL2_Image để xử lí hình ảnh, SDL2_mixer để xử lí âm thanh, SDL2_ttf để xử lí chữ in lên màn hình
+- Sử dụng thư viện đồ họa 
+  - SDL2
+  - SDL2_Image để xử lí hình ảnh
+  - SDL2_mixer để xử lí âm thanh
+  - SDL2_ttf để xử lí chữ in lên màn hình
 
 
 # Kết luận, hướng phát triển và các điều tâm đắc rút ra được sau khi hoàn thành chương trình
