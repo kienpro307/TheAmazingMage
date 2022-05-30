@@ -1,0 +1,72 @@
+﻿  BaseObject.cpp
+  BulletObject.cpp
+  CommonFunc.cpp
+  Geometric.cpp
+  ImpTimer.cpp
+D:\code\GAME\Game\ImpTimer.cpp(28,15): warning C4353: nonstandard extension used: constant 0 as function expression.  Use '__noop' function intrinsic instead
+  MainObject.cpp
+D:\code\GAME\Game\MainObject.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\code\GAME\Game\MainObject.cpp(91,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\code\GAME\Game\MainObject.cpp(92,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\code\GAME\Game\MainObject.cpp(180,51): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+D:\code\GAME\Game\MainObject.cpp(185,66): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+D:\code\GAME\Game\MainObject.cpp(201,20): warning C4018: '<': signed/unsigned mismatch
+D:\code\GAME\Game\MainObject.cpp(246,16): warning C4305: '+=': truncation from 'double' to 'float'
+D:\code\GAME\Game\MainObject.cpp(298,29): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\code\GAME\Game\MainObject.cpp(304,29): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\code\GAME\Game\MainObject.cpp(327,41): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\code\GAME\Game\MainObject.cpp(328,56): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\code\GAME\Game\MainObject.cpp(331,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\code\GAME\Game\MainObject.cpp(332,45): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\code\GAME\Game\MainObject.cpp(357,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\code\GAME\Game\MainObject.cpp(383,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\code\GAME\Game\MainObject.cpp(391,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\code\GAME\Game\MainObject.cpp(392,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\code\GAME\Game\MainObject.cpp(394,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\code\GAME\Game\MainObject.cpp(395,57): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\code\GAME\Game\MainObject.cpp(419,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\code\GAME\Game\MainObject.cpp(449,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\code\GAME\Game\MainObject.cpp(462,43): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Map.cpp
+  PlayerPower.cpp
+D:\code\GAME\Game\PlayerPower.cpp(36,20): warning C4018: '<': signed/unsigned mismatch
+  TextObject.cpp
+  ThreatsObject.cpp
+D:\code\GAME\Game\ThreatsObject.cpp(102,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\code\GAME\Game\ThreatsObject.cpp(103,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\code\GAME\Game\ThreatsObject.cpp(120,33): warning C4305: '+=': truncation from 'double' to 'float'
+D:\code\GAME\Game\ThreatsObject.cpp(197,29): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\code\GAME\Game\ThreatsObject.cpp(198,44): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\code\GAME\Game\ThreatsObject.cpp(201,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\code\GAME\Game\ThreatsObject.cpp(202,33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\code\GAME\Game\ThreatsObject.cpp(214,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\code\GAME\Game\ThreatsObject.cpp(225,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\code\GAME\Game\ThreatsObject.cpp(232,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\code\GAME\Game\ThreatsObject.cpp(233,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\code\GAME\Game\ThreatsObject.cpp(235,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\code\GAME\Game\ThreatsObject.cpp(236,45): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\code\GAME\Game\ThreatsObject.cpp(248,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\code\GAME\Game\ThreatsObject.cpp(262,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\code\GAME\Game\ThreatsObject.cpp(274,43): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\code\GAME\Game\ThreatsObject.cpp(332,42): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+D:\code\GAME\Game\ThreatsObject.cpp(341,20): warning C4018: '<': signed/unsigned mismatch
+D:\code\GAME\Game\ThreatsObject.cpp(362,42): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+D:\code\GAME\Game\ThreatsObject.cpp(362,30): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+  main.cpp
+D:\code\GAME\Game\ThreatsObject.h(12,1): warning C4005: 'COME_BACK_TIME': macro redefinition
+D:\code\GAME\Game\MainObject.h(15): message : see previous definition of 'COME_BACK_TIME'
+D:\code\GAME\Game\main.cpp(117,28): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\code\GAME\Game\main.cpp(120,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\code\GAME\Game\main.cpp(121,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\code\GAME\Game\main.cpp(138,28): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\code\GAME\Game\main.cpp(172,41): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+D:\code\GAME\Game\main.cpp(238,21): warning C4018: '<': signed/unsigned mismatch
+D:\code\GAME\Game\main.cpp(253,25): warning C4018: '<': signed/unsigned mismatch
+D:\code\GAME\Game\main.cpp(314,21): warning C4018: '<': signed/unsigned mismatch
+D:\code\GAME\Game\main.cpp(319,23): warning C4018: '<': signed/unsigned mismatch
+D:\code\GAME\Game\main.cpp(373,53): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\code\GAME\Game\main.cpp(380,54): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\code\GAME\Game\main.cpp(397,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+D:\code\GAME\Game\main.cpp(409): warning C4715: 'SDL_main': not all control paths return a value
+  Game.vcxproj -> D:\code\GAME\Debug\Game.exe
