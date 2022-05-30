@@ -11,7 +11,13 @@ cd địa-chỉ-folder
 ```
 git clone https://github.com/kienpro307/TheAmazingMage.git
 ```
-4. Mở file .sln lên, làm theo hướng dẫn của lazyfoo để chỉnh phần Properties (Lưu ý đầy đủ SDL2, SDL2_image, SDL2_mixer, SDL2_
+4. Mở file .sln lên
+
+![2](https://user-images.githubusercontent.com/100121756/170998599-ba204f38-37cf-4ea5-aa60-84c179008634.png)
+
+5. Chỉnh phần debug thành x86 và ấn Local Windows Debugger
+![1](https://user-images.githubusercontent.com/100121756/170998554-c865fa17-ede3-49d9-aca7-2f5d49b3be2b.png)
+
 # Mô tả chung về trò chơi, các ý tưởng chính
 Game 2D Platformer cổ điển lấy cảm hứng từ Mario và có cách hoạt động tương tự, đồng thời được phát triển thêm một số tính năng mới
 
@@ -70,12 +76,14 @@ https://youtu.be/vVpKPWSLRF8
 # Kết luận, hướng phát triển và các điều tâm đắc rút ra được sau khi hoàn thành chương trình
 Kết luận
 - Nên phân chia các object ra thành từng class và từng file riêng để tiện cho việc code và fix bug trong trường hợp chương trình có lỗi. Ngoài ra nó còn giúp người đọc code dễ dàng hình dung chương trình của mình làm gì. Khi làm game nên làm cấu trúc game trước rồi mới bắt đầu tập trung xây dựng những mảng con.
+- Cần vạch ra 1 trình tự của game để xây dựng game không bị lỗi logic, không bị rời rạc và không khó sửa. Vừa làm vừa tách file kiểm tra lỗi liên tục
 
 Hướng phát triển của Game:
 - Sẽ có thêm chức năng chọn nhân vật
 - Có nhiều bản đồ hơn
 - Có thêm các item phụ tăng sức mạnh cho nhân vật
 - Quái vật sẽ mạnh hơn
+- Có thời gian cho mỗi màn chơi và nhân vật sẽ phải hoàn thành màn chơi trước khi hết thời gian
 
 Những điều tâm đắc sau khi hoàn thành chương trình:
 - Biết cách đặt tên biến đúng với quy tắc chung và chia chương trình thành nhiều file để tiện cho việc lập trình
