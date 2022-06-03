@@ -72,15 +72,11 @@ git clone https://github.com/kienpro307/TheAmazingMage.git
 
 ## 4. Các kỹ thuật lập trình được sử dụng trong chương trình
 - Kĩ thuật TileMap: Chia bản đồ thành lưới ô vuông gồm nhiều ô nhỏ, mỗi ô có một chỉ số nhất định. Việc này sẽ giúp xử lí di chuyển, va chạm dễ dàng hơn. 
-- Struct và Class: Dùng để quản lí các đối tượng và thuộc tính của chúng. Cụ thể là: 
-  - Nhân vật chính
-  -  Quái vật
-  -  Đạn 
-  -  Bản đồ
-  -  Texture
-  -  Thời gian 
-  -  Đạn
-  -  Vật cản
+- Struct và Class: 
+    - private, protected, public.
+    - Class kế thừa.
+    - Hàm khởi tạo (constructor) và hàm hủy (destructor).
+    - Hàm hằng.
 - Vector: Dùng để tạo danh sách lưu trữ quái vật và đạn bắn
 - Con trỏ: Quản lí object game, giảm gánh nặng xử lý memory
 - Lập trình hướng đối tượng, vận dụng tính đóng gói, kế thừa, có thể dùng lại thuộc tính của một class cho các class con khác
